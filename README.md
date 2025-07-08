@@ -1,1 +1,3 @@
 # ChocoPy
+
+![OUTPUT](./output.png)
